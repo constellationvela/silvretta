@@ -36,5 +36,11 @@ Trotz gutem Wetter ist die Hütte ziemlich leer und wir haben Glück und bekomme
 
 Doch müder als gedacht vom ersten Tag gehen wir früh schlafen.
 
+Stats 1. Tag:
+Distanz
+Höhenmeter
+Zeit
+
 [➡️ Tag 2](tag2.md)
+
 [⬅️ Zurück zur Übersicht](index.md)
