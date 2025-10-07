@@ -1,2 +1,2 @@
 # silvretta
-Silvretta Hüttenrunde von Lukas, Kilian, Till und Julian im September 2025
+Lukas, Kilian, Till und Julian
