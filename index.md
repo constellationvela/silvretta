@@ -8,6 +8,7 @@ Hier findest du Fotos, Berichte und Karten unserer 7-tägigen Wanderung.
 
 ## Etappen
 - [Tag 1 – Ischgl → Heidelberger Hütte](tag1.md)
+- [Test: Tag als html](tag1.html)
 - [Tag 2 – Heidelberger → Jamtalhütte](tag2.md)
 - [Tag 3 – Jamtalhütte → Tuoi Hütte](tag3.md)
 - [Tag 4 – Tuoi Hütte → Wiesbadener Hütte](tag4.md)
