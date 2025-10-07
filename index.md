@@ -1,13 +1,16 @@
 ---
-title: Silvretta Trek 2025
+title: Silvretta Hüttenrunde 2025
 ---
 
-# Silvretta Hüttenwanderung 2025
 
-Willkommen auf meiner Tour-Seite!  
-Hier findest du Fotos, Berichte und Karten meiner 7-tägigen Wanderung.
+Willkommen auf zu unserer Wanderung!  
+Hier findest du Fotos, Berichte und Karten unserer 7-tägigen Wanderung.
 
 ## Etappen
 - [Tag 1 – Ischgl → Heidelberger Hütte](tag1.md)
 - [Tag 2 – Heidelberger → Jamtalhütte](tag2.md)
-- [Tag 3 – Jamtalhütte → Wiesbadener Hütte](tag3.md)
+- [Tag 3 – Jamtalhütte → Tuoi Hütte](tag3.md)
+- [Tag 4 – Tuoi Hütte → Wiesbadener Hütte](tag4.md)
+- [Tag 5 – Wiesbadener Hütte → Saarbrücker Hütte](tag5.md)
+- [Tag 6 – Saarbrücker Hütte → Tübinger Hütte](tag6.md)
+- [Tag 7 – Tübinger Hütte → Vermuntstausee (Galtür)](tag5.md)
