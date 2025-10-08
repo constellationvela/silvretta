@@ -33,7 +33,11 @@ Trotzdem heißt das: Roaming aus 😱
 ![Heidelberger Hütte](Bilder/Tag1/20250915_163903.jpg)
 
 Um die Hütte tummeln sich eine Meeeenge knuffiger Murmeltiere die alle schon ordentlich Winterspeck angelegt haben.
-![Murmeltier](Bilder/Tag1/20250915_170805.jpg)
+
+<p align="center">
+  <img src="Bilder/Tag1/20250915_170805.jpg" alt="Skullking" width="400">
+</p>
+
 
 Trotz gutem Wetter ist die Hütte ziemlich leer und wir haben Glück und bekommen ein Mehrbettzimmer für uns alleine!
 ![Schlafzimmer](Bilder/Tag1/20250915_215927.jpg)
