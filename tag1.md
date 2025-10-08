@@ -26,6 +26,10 @@ Die Lanschaft wird immer prächtiger!!!
 
 Und bald sehen wir auch schon die Heidelberger Hütte 👏
 
+Man glaubts kaum aber diese befindet sich in der Schweiz! 🇨🇭 Allerdings ist die Hütte nur von Österreich aus zu erreichen 😁 
+
+Trotzdem heißt das: Roaming aus 😱
+
 ![Heidelberger Hütte](Bilder/Tag1/20250915_163903.jpg)
 
 Um die Hütte tummeln sich eine Meeeenge knuffiger Murmeltiere die alle schon ordentlich Winterspeck angelegt haben.
