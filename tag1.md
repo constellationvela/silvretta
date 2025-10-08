@@ -6,11 +6,11 @@ title: Tag 1 – Ischgl → Heidelberger Hütte
 
 
 
-Montag 7:50 Uhr, München. RB54 nach Kufstein fährt pünktlich ab. Mit an Bord: Till, Kilian und Julian
-In Kufstein steigen wir in den RJX nach Landeck um und dort angekommen erwartet uns eine einstündige Busfahrt nach Ischgl, dem Ausgangspunkt unseres Abenteuers. 
-Weil sich Lukas einen miesen RNA Virus eingefangen hat und noch Sport Pause machen muss, stößt er erst an Tag 3 dazu.
+Montag 7:50 Uhr, München. RB54 nach Kufstein fährt pünktlich ab. Mit an Bord: Till, Kilian und Julian. Einer hat einen zu großen Rucksack, einer hat einen schlechten Rucksack, und einer hat einfach Hermine Grangers Handtasche und zaubert eine Menge aus einem kleinen Rucksack heraus!
+Umstieg in Kufstein in den RJX nach Landeck und weiter in einer Odysee an Busfahrt nach Ischgl, dem Ausgangspunkt unseres Abenteuers. 
+Weil sich Lukas einen miesen RNA Virus eingefangen hat und noch Sport Pause machen muss, geht der Spaß erstmal ohne ihn los 🤷‍♂️
 
-Bei absolutem Kaiserwetter gehen wir los!
+Bei absolutem Kaiserwetter starten wir rein!
 ![Ischgl](Bilder/Tag1/20250915_123154.jpg)
 
 Nach einiger Zeit auf der Straße kommen wir endlich auf einen Kies Weg...
@@ -20,7 +20,7 @@ Nach einiger Zeit auf der Straße kommen wir endlich auf einen Kies Weg...
 ![Pause1](Bilder/Tag1/20250915_151415.jpg)
 ![Pause2](Bilder/Tag1/20250915_151434.jpg)
 
-Die Lanschaft wird immer schöner
+Die Lanschaft wird immer prächtiger!!!
 
 ![Landschaft](Bilder/Tag1/20250915_154547.jpg)
 
@@ -36,11 +36,12 @@ Trotz gutem Wetter ist die Hütte ziemlich leer und wir haben Glück und bekomme
 
 Doch müder als gedacht vom ersten Tag gehen wir früh schlafen.
 
-Stats 1. Tag:
-Distanz
-Höhenmeter
-Zeit
+Track 1. Tag: https://www.alpenvereinaktiv.com/de/track/aufzeichnung-am-15.09.2025-12-36-24/326503533/
+Distanz: 14,1 km
+Höhenmeter: 922 hm
+Aufgezeichnete Zeit: 4:25h
 
-[➡️ Tag 2](tag2.md)
+Weiter zu [➡️ Tag 2](tag2.md)
+Zurück zu [⬅️ Tag 1](tag1.md)
 
 [⬅️ Zurück zur Übersicht](index.md)
