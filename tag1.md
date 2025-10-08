@@ -42,6 +42,7 @@ Höhenmeter: 922 hm
 Aufgezeichnete Zeit: 4:25h
 
 Weiter zu [➡️ Tag 2](tag2.md)
+
 Zurück zu [⬅️ Tag 1](tag1.md)
 
 [⬅️ Zurück zur Übersicht](index.md)
