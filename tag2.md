@@ -25,9 +25,9 @@ Kilians erster 3000er! 😇
 
 ![Kronenjoch](Bilder/tag2/20250916_120945.jpg)
 
-Ich glaube kältester Moment auf der Tour mit 0 Grad und nem kräftigen Wind.
+Ich glaube kältester Moment auf der Tour mit 0 Grad und nem kräftigen Wind. Das Gipfelkreuz ist natürlich voll mit Stickern von deutschen Provinz Sportvereinen 😵‍💫
 
-![Kronenjoch](Bilder/tag2/20250916_123150.jpg)
+![Grenzkopf](Bilder/tag2/20250916_123150.jpg)
 
 Gipfelbucheintrag: check ☑️
 ![gipfelbuch](Bilder/tag2/20250916_122728.jpg)
