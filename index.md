@@ -2,6 +2,7 @@
 title: Silvretta Hüttenrunde 2025
 ---
 
+![Titelbild](Bilder/PXL_20250921_072549921.jpg)
 
 What is better than Silvretta?
 
