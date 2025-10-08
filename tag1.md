@@ -37,12 +37,13 @@ Trotz gutem Wetter ist die Hütte ziemlich leer und wir haben Glück und bekomme
 Doch müder als gedacht vom ersten Tag gehen wir früh schlafen.
 
 Track 1. Tag: https://www.alpenvereinaktiv.com/de/track/aufzeichnung-am-15.09.2025-12-36-24/326503533/
+
 Distanz: 14,1 km
+
 Höhenmeter: 922 hm
+
 Aufgezeichnete Zeit: 4:25h
 
 Weiter zu [➡️ Tag 2](tag2.md)
-
-Zurück zu [⬅️ Tag 1](tag1.md)
 
 [⬅️ Zurück zur Übersicht](index.md)
