@@ -8,14 +8,15 @@ Gut ausgeruht sagen wir Tschüss zur Heidelberger Hütte...
 
 ![tschüss](Bilder/tag2/20250916_085617.jpg)
 
-... und beginnen unseren Weg vorerst ohne Frühstück Richtung Kronenjoch auf 2975 m
-Kilian und ich jammern über den ersten Muskelkater vom Rucksack während Till leichtfüßig voranschreitet.
-Landschaft ist aber atemberaubend! Schaut euch diese Farben an! In der Ferne sieht man die ersten 3000er aufragen. Hier konkret das Mittlere Fluchthorn 3397 Meter 😍
+... und beginnen unseren Weg vorerst ohne Frühstück Richtung Kronenjoch auf 2975 m.
+
+Der Rucksack Muskelkater geht langsam los aber wir schreiten noch mehr oder weniger leichtfüßig voran.
+Landschaft ist aber atemberaubend! Schaut euch diese Farben an! In der Ferne sieht man die ersten 3000er aufragen. Hier das Mittlere Fluchthorn 3397 Metern 😍
 
 ![starttag2](Bilder/tag2/20250916_085547.jpg)
 
 
-Auf dem Weg endecken wir diesen Tech mit Kaulquappen, nicht schlecht für die Höhe!
+Auf dem Weg endecken wir diesen Teich mit Kaulquappen; nicht schlecht für die Höhe!
 
 ![teich](Bilder/tag2/20250916_104104.jpg)
 
@@ -35,6 +36,8 @@ Gipfelbucheintrag: check ☑️
 Gipfelfoto darf nicht fehlen!
 ![Gipfelfoto](Bilder/tag2/20250916_122939.jpg)
 
+Das Kronenjoch bildet die Grenze zwischen Schweiz und Österreich, wir bewegen uns also wieder auf Österreichischen Boden 🇦🇹
+
 Schließlich erreichen wir die Jamtalhütte. Diese ist wirklich eine Vorzeigehütte. Automatische Türen, Platz für gefühlt 300 Bergsteiger*innen. Wir treffen den Hüttenwirt auf der Terasse und er merkt sofort, dass wir was frisches kühles brauchen
 ![Jamtalhütte](Bilder/tag2/20250916_151125.jpg)
 ![Getränke](Bilder/tag2/20250916_152500.jpg)
@@ -45,7 +48,10 @@ Am Abend gibt's endlich ne warme Mahlzeit nachdem wir bis hierhin nur unser mitg
 Am Nachbartisch endecken wir 2 Mädels die uns schon auf der Heidelbergerhütte aufgefallen sind und wir hören mit, dass sie morgen auch zur Tuoi Hütte wollen. Wie behalten sie mal im Auge aber wechseln noch nicht viele Worte 🧐
 
 Nach einer Stunde Cabo/Kaboom spielen wird es etwas fad, also geben Kilian und ich Till schon früher als geplant sein Geburtstagsgeschenk: Das Kartenspiel SKULLKING! 
-![skullking](Bilder/tag2/skull-king.jpeg)
+
+<p align="center">
+  <img src="Bilder/tag2/skull-king.jpeg" alt="Skullking" width="300">
+</p>
 
 Wir zocken direkt los, tolles game! Eigentlich wie die 25 Jahre Wizard Jubiläumsedition aber noch mit paar extra Regeln on top!
 
