@@ -55,15 +55,17 @@ Statistik ist recht ähnlich zu Tag 1:
 
 Track 2. Tag: https://www.alpenvereinaktiv.com/de/track/aufzeichnung-am-16.09.2025-08-53-45/326503522/#caml=av4,1oxa65,7r200i,-2o7r,0&dm=1
 
-Distanz: 13,7 km
+Distanz: 27,8 km
 
-Höhenmeter: 890 hm
+Höhenmeter: 912 hm
 
 Aufgezeichnete Zeit: 6:31h
+
+Tag 1+2: 27,8 km & 1812 hm
 
 
 Weiter zu [➡️ Tag 3](tag3.md)
 
-Zurück zu [⬅️ Tag 2](tag2.md)
+Zurück zu [⬅️ Tag 1](tag1.md)
 
 [⬅️ Zurück zur Übersicht](index.md)
