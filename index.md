@@ -3,7 +3,7 @@ title: Silvretta Hüttenrunde 2025
 ---
 
 
-Willkommen auf zu unserer Wanderung!  
+Willkommen zum Abenteuer! 
 Hier findest du Fotos, Berichte und Karten unserer 7-tägigen Wanderung.
 
 ## Etappen
