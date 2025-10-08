@@ -19,5 +19,4 @@ Till, Kilian, Lukas und Julian
 - [Tag 5 – Wiesbadener Hütte → Saarbrücker Hütte](tag5.md)
 - [Tag 6 – Saarbrücker Hütte → Tübinger Hütte](tag6.md)
 - [Tag 7 – Tübinger Hütte → Vermuntstausee (Galtür)](tag5.md)
-
 - [Test: Tag als html](tag11.html)
